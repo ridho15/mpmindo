@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-01-18 00:36:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-18 01:03:52 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-01-18 01:25:50 --> 404 Page Not Found: Licensetxt/index
+ERROR - 2023-01-18 01:31:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-18 03:08:22 --> 404 Page Not Found: Well-known/assetlinks.json
+ERROR - 2023-01-18 03:24:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-18 04:29:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-18 04:29:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-18 07:13:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-18 07:29:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-18 08:06:58 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2023-01-18 08:06:58 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2023-01-18 12:28:28 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-01-18 13:35:28 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-01-18 15:48:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-18 16:22:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-18 16:22:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-18 17:10:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-18 19:25:49 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2023-01-18 20:16:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-18 21:09:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-18 21:09:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-18 21:09:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-18 21:09:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-18 21:11:00 --> 404 Page Not Found: Adstxt/index
+ERROR - 2023-01-18 22:28:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-18 23:12:00 --> 404 Page Not Found: Robotstxt/index

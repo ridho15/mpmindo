@@ -1,0 +1,21 @@
+<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+
+$lang['heading_title']           = 'Reset Password';
+$lang['text_instruction']        = 'Masukkan email yang terhubung dengan akun Anda';
+$lang['text_change_instruction'] = 'Kami telah mengirimkan email tentang instruksi untuk perubahan password.';
+$lang['text_login']              = '<a href="%s">Kembali ke login</a>.';
+$lang['text_captcha']            = 'Ketikkan kode keamanan di atas';
+$lang['entry_email']         	 = 'Email';
+$lang['entry_password']          = 'Password';
+$lang['entry_new_password']      = 'Password Baru';
+$lang['entry_captcha']           = 'Kode keamanan';
+$lang['entry_code']              = 'Kode Verifikasi';
+$lang['button_reset']            = 'Reset Password';
+$lang['success_login']           = 'Sedang mengarahkan ke dashboard...';
+$lang['error_login']             = 'Otentikasi tidak valid!';
+$lang['error_system']            = 'Ada yang salah, silakan hubungi kami!';
+$lang['error_email']         	 = 'Email salah!';
+$lang['error_email_not_found']	 = 'Email tidak ditemukan';
+$lang['error_captcha']           = 'Kode keamanan tidak cocok!';
+$lang['error_code_expired']      = 'Kode verifikasi tidak valid atau sudah kadaluarsa';
+$lang['error_code_invalid']      = 'Kode verifikasi tidak valid';

@@ -1,0 +1,25 @@
+<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+
+$lang['heading_title']        = 'Pengaturan Toko';
+$lang['tab_general']          = 'Informasi Umum';
+$lang['tab_shipping']         = 'Pengiriman';
+$lang['tab_note']             = 'Catatan';
+$lang['tab_membership']       = 'Keangotaan Toko';
+$lang['entry_name']           = 'Nama Toko';
+$lang['entry_domain']         = 'Domain';
+$lang['entry_tagline']        = 'Slogan';
+$lang['entry_description']    = 'Deskripsi';
+$lang['entry_logo']           = 'Logo';
+$lang['entry_image']          = 'Gambar Cover';
+$lang['entry_address']        = 'Alamat';
+$lang['entry_province']       = 'Provinsi';
+$lang['entry_city']           = 'Kabupaten/Kota';
+$lang['entry_subdistrict']    = 'Kecamatan';
+$lang['entry_postcode']       = 'Kode Pos';
+$lang['entry_telephone']      = 'No. Handphone';
+$lang['entry_courier']        = 'Layanan Kurir';
+$lang['entry_seller_note']    = 'Catatan Penjual';
+$lang['entry_return_policy']  = 'Kebijakan Pengembalian Barang';
+$lang['button_save']          = 'Simpan';
+$lang['text_save_success']    = 'Pengaturan toko telah berhasil diperbarui!';
+$lang['text_upload_success']  = 'File berhasil diupload!';

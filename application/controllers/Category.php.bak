@@ -1,0 +1,191 @@
+<?php
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+class Category extends MY_Controller
+{
+	private $limit = 12;
+	
+	/**
+	 * Constructor
+	 * 
+	 * @access public
+	 * @return void
+	 */
+	public function __construct()
+	{
+		parent::__construct();
+		
+		$this->load->library('currency');
+		$this->load->model('category_model');
+		$this->load->model('product_model');
+		
+		$this->load->helper('format');
+	}
+	
+	/**
+	 * Index
+	 * 
+	 * @access public
+	 * @return void
+	 */
+	public function index()
+	{
+		$segments = $this->uri->segment_array();
+		
+		if (count($segments) < 2) {
+			show_404();
+		} else {
+			$category = false;
+			$slugs = $segments;
+			array_shift($segments);
+			$slug = array_pop($segments);
+			$breadcrumbs = array();
+			$path = '';
+			$path_ids = array();
+			$data['category_id'] = null;
+			
+			foreach ($slugs as $slug) {
+				if ($category = $this->category_model->get_category($slug)) {
+					$path .= $category['slug'].'/';
+					$path_ids[] = $category['category_id'];
+					$this->load->breadcrumb($category['name'], site_url('category/'.$path));
+					$data['category_id'] = $category['category_id'];
+				}
+			}
+			
+			array_pop($path_ids);
+			
+			$path_id = implode('-', $path_ids);
+			
+			if ($category && $category['path_id'] == $path_id) {
+				$this->load->vars('breadcrumbs', $breadcrumbs);
+			
+				$products = array();
+				$categories = array();
+				
+				$this->load->library('pagination');
+				
+				$sort = ($this->input->get('sort')) ? $this->input->get('sort') : 'p.sort_order';
+				$order = ($this->input->get('order')) ? $this->input->get('order') : 'asc';
+				$page = ($this->input->get('page')) ? $this->input->get('page') : 1;
+				
+				$query = '';
+				
+				$params = array(
+					'category_id' => $category['category_id'], 
+					'sort'	=> $sort,
+					'order' => $order,
+					'start' => ($page -1) * $this->limit,
+					'limit' => $this->limit
+				);
+				
+				$sorts = array();
+
+				$sorts[] = array(
+					'text' => 'Default',
+					'value' => 'sort_order-asc',
+					'href' => site_url('category/'.$path.'?sort=sort_order&order=asc'.$query)
+				);
+
+				$sorts[] = array(
+					'text' => 'Nama A &raquo; Z',
+					'value' => 'name-asc',
+					'href' => site_url('category/'.$path.'?sort=name&order=asc'.$query)
+				);
+				
+				$sorts[] = array(
+					'text' => 'Nama Z &raquo; A',
+					'value' => 'name-desc',
+					'href' => site_url('category/'.$path.'?sort=name&order=desc'.$query)
+				);
+
+				$sorts[] = array(
+					'text' => 'Harga Rendah &raquo; Tinggi',
+					'value' => 'price-asc',
+					'href' => site_url('category/'.$path.'?sort=price&order=asc'.$query)
+				);
+				
+				$sorts[] = array(
+					'text' => 'Harga Tinggi &raquo; Rendah',
+					'value' => 'price-desc',
+					'href' => site_url('category/'.$path.'?sort=price&order=desc'.$query)
+				);
+				
+				foreach ($this->product_model->get_products($params) as $product) {
+					$href = ($path != '') ? 'product/'.$path.$product['slug'] : 'product/'.$product['slug'];
+						
+					
+						$name = strip_tags(html_entity_decode($product['name'], ENT_QUOTES, 'UTF-8'));
+					$products[] = array(
+						'product_id' => $product['product_id'],
+						'thumb' => $this->image->resize($product['image'] ? $product['image'] : 'no_image.jpg', 180, 180),
+						'name' => $name,
+						'description' => substrwords(strip_tags(html_entity_decode($product['description'], ENT_QUOTES, 'UTF-8')), 100),
+						'price' => calculate_tax($product['price'], $product['tax_value'], $product['tax_type']),
+						'discount' => (float)$product['discount'] ? calculate_tax($product['discount'], $product['tax_value'], $product['tax_type']) : false,
+						'quantity' => (int)$product['quantity'],
+						'wholesaler' => ($product['wholesaler'] > 1) ? true : false,
+						'discount_percent' => (float)$product['discount'] ? ceil(($product['price']-$product['discount'])/$product['price']*100).'%' : false,
+						'href' => site_url($href)
+					);
+				}
+				
+				$query  = '';
+				$query .= '?sort='.$sort;
+				$query .= '&order='.$order;
+				
+				$config = array(
+					'base_url' => site_url('category/'.$path).$query,
+					'total_rows' => $this->product_model->count_products($params),
+					'per_page' => $this->limit,
+					'query_string_segment' => 'page',
+					'page_query_string' => true,
+					'full_tag_open' => '<ul class="pagination">',
+					'full_tag_close' => '</ul>',
+					'num_tag_open' => '<li>',
+					'num_tag_close' => '</li>',
+					'cur_tag_open' => '<li class="active"><a>',
+					'cur_tag_close' => '</a></li>',
+					'first_tag_open' => '<li>',
+					'first_tag_close' => '</li>',
+					'last_tag_open'	=> '<li>',
+					'last_tag_close' => '</li>',
+					'prev_tag_open'	=> '<li>',
+					'prev_tag_close' => '</li>',
+					'next_tag_open'	=> '<li>',
+					'next_tag_close' => '</li>',
+					'use_page_numbers' => true
+				);
+				
+				$this->pagination->initialize($config);
+				
+				foreach ($this->category_model->get_subcategories($category['category_id']) as $sub_category) {
+					$categories[] = array(
+						'name' => $sub_category['name'],
+						'href' => site_url('category/'.$path.$sub_category['slug'])
+					);
+				}
+				
+				$data['name'] = $category['name'];
+				$data['description'] = html_entity_decode($category['description'], ENT_QUOTES, 'UTF-8');
+				$data['image'] = $this->image->resize($category['image'] ? $category['image'] : 'no_image.jpg', 300);
+				$data['products'] = $products;
+				$data['categories'] = $categories;
+				$data['sorts'] = $sorts;
+				$data['order'] = $order;
+				$data['sort'] = $sort;
+				$data['heading_title'] = $category['name'];
+				$data['pagination'] = $this->pagination->create_links();
+				$data['total'] = $this->product_model->count_products($params);
+				
+				$this->load
+				->title($category['meta_title'] ? $category['meta_title'] : $category['name'], $this->config->item('site_name'))
+				->metadata('description', $category['meta_description'])
+				->metadata('keyword', $category['meta_keyword'])
+				->view('category', $data);
+			} else {
+				show_404();
+			}
+		}
+	}
+}

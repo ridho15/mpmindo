@@ -1,0 +1,50 @@
+<IfModule mod_rewrite.c>
+
+RewriteEngine On
+#RewriteBase /sma.loc/public_html/
+RewriteCond $1 !^(index\.php|assets|install|update) 
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# For godady Shared Hosting Server uncomment the line below
+# RewriteRule ^(.*)$ index.php?/$1 [L]
+
+# Please comment this if you have uncommented the above
+RewriteRule ^(.*)$ index.php/$1 [NC,L,QSA]
+
+</IfModule>
+
+<IfModule !mod_rewrite.c>
+    ErrorDocument 404 /theme/errors/html/error_404.php
+</IfModule> 
+
+<IfModule mod_expires.c>
+ExpiresActive On
+ExpiresDefault A0
+ExpiresByType image/gif A2592000
+ExpiresByType image/png A2592000
+ExpiresByType image/jpg A2592000
+ExpiresByType image/jpeg A2592000
+ExpiresByType image/ico A2592000
+ExpiresByType image/x-icon A2592000
+ExpiresByType text/css A2592000
+ExpiresByType text/javascript A2592000
+ExpiresByType application/javascript A2592000
+ExpiresByType application/x-shockwave-flash A2592000
+	<FilesMatch "\.(php|php4)$">
+			ExpiresByType text/html "now"
+	</FilesMatch>
+ExpiresDefault "access plus 10 years"
+</IfModule>
+
+<IfModule mod_headers.c>
+Header unset ETag
+</IfModule>
+
+FileETag none
+
+<IfModule mod_deflate.c>
+  <FilesMatch "\.(css|js|x?html?|php)$">
+    SetOutputFilter DEFLATE
+  </FilesMatch>
+</IfModule>

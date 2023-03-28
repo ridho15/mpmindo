@@ -1,0 +1,8 @@
+{
+    "require": {
+        "mpdf/mpdf": "^8.0",
+        "paragonie/random_compat": "<9.99",
+        "midtrans/midtrans-php": "^2.3",
+        "xendit/xendit-php": "^2.17"
+    }
+}

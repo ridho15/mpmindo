@@ -1,0 +1,487 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-10-03 00:35:52 --> 404 Page Not Found: 
+ERROR - 2020-10-03 01:12:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 01:12:15 --> 404 Page Not Found: 
+ERROR - 2020-10-03 01:17:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 01:19:51 --> 404 Page Not Found: 
+ERROR - 2020-10-03 01:20:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 01:24:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 01:26:14 --> 404 Page Not Found: Homepage-10html/index
+ERROR - 2020-10-03 01:27:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 01:27:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 01:37:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 01:38:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 01:38:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 01:42:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 01:42:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 01:44:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 01:44:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 01:48:49 --> 404 Page Not Found: 
+ERROR - 2020-10-03 01:48:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 01:49:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 01:50:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 01:51:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 01:53:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 01:53:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 01:54:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 01:54:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 01:56:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 01:59:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 02:01:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 02:02:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 02:05:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 02:06:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 02:06:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 02:07:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 02:07:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 02:08:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 02:09:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 02:09:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 02:09:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 02:10:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 02:11:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 02:14:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 02:15:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 02:16:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 02:16:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 02:17:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 02:21:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 02:22:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 02:23:18 --> 404 Page Not Found: 
+ERROR - 2020-10-03 02:24:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 02:25:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 02:26:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 02:26:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 02:26:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 02:27:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 02:28:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 02:33:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 02:33:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 02:33:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 02:35:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 02:35:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 02:37:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 02:38:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 02:41:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 02:42:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 02:43:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 02:44:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 02:45:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 02:46:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 02:47:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 02:47:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 02:52:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 02:53:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 03:02:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 03:03:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 03:04:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 03:05:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 03:05:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 03:12:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 03:19:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 03:27:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 03:32:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 03:33:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 03:36:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 03:47:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 03:51:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 03:54:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 03:55:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 03:58:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 03:58:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 03:59:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 04:05:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 04:08:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 04:09:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 04:14:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 04:18:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 04:20:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 04:22:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 04:24:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 04:36:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 04:40:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 04:43:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 04:49:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 04:50:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 04:53:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 04:59:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 05:03:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 05:07:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 05:12:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 05:13:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 05:14:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 05:15:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 05:17:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 05:19:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 05:22:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 05:24:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 05:24:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 05:28:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 05:28:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 05:29:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 05:35:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 05:37:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 05:40:40 --> 404 Page Not Found: 
+ERROR - 2020-10-03 05:40:40 --> 404 Page Not Found: 
+ERROR - 2020-10-03 05:42:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 05:43:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 05:47:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 05:47:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 05:51:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 05:57:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 06:00:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 06:03:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 06:03:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 06:04:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 06:05:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 06:09:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 06:10:24 --> 404 Page Not Found: Login/index
+ERROR - 2020-10-03 06:12:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 06:12:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 06:15:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 06:17:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 06:17:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 06:22:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 06:22:24 --> 404 Page Not Found: 
+ERROR - 2020-10-03 06:23:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 06:24:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 06:25:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 06:26:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 06:26:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 06:30:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 06:30:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 06:32:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 06:32:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 06:33:31 --> 404 Page Not Found: 
+ERROR - 2020-10-03 06:34:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 06:35:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 06:42:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 06:44:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 06:45:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 06:46:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 06:51:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 06:51:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 06:53:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 06:53:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 06:54:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 06:55:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 06:55:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 06:59:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 07:00:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 07:01:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 07:01:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 07:04:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 07:05:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 07:05:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 07:06:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 07:06:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 07:09:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 07:13:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 07:14:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 07:17:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 07:18:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 07:18:36 --> 404 Page Not Found: 
+ERROR - 2020-10-03 07:19:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 07:21:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 07:22:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 07:22:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 07:22:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 07:23:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 07:24:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 07:24:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 07:27:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 07:27:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 07:28:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 07:29:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 07:31:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 07:31:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 07:32:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 07:32:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 07:34:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 07:36:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 07:41:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 07:41:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 07:45:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 07:46:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 07:46:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 07:47:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 07:48:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 07:49:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 07:51:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 07:51:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 07:56:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 07:56:22 --> 404 Page Not Found: Utility/convert
+ERROR - 2020-10-03 07:59:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:00:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:01:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:02:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:02:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:02:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:03:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:04:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:04:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:05:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:05:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:05:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:06:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:06:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:06:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:06:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:07:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:07:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:08:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:09:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:09:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:11:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:11:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:12:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:13:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:14:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:15:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:16:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:17:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:17:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:18:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:18:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:19:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:21:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:22:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:23:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:23:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:24:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:25:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:26:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:26:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:28:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:28:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:28:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:29:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:30:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:30:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:30:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:31:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:31:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:32:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:32:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:33:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:34:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:34:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:34:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:34:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:34:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:35:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:36:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:36:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:36:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:36:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:37:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:37:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:38:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:39:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:39:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:40:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:41:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:41:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:41:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:43:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:44:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:44:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:45:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:46:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:47:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:48:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:48:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:49:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:49:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:50:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:50:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:51:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:53:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:54:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:54:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:55:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:55:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:55:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:55:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:55:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:56:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:57:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:57:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:58:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:58:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:59:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:59:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:59:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 08:59:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:00:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:01:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:01:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:01:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:02:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:02:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:02:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:02:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:04:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:04:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:05:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:05:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:05:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:05:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:06:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:07:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:07:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:07:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:07:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:08:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:08:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:08:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:08:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:09:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:09:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:10:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:10:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:10:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:10:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:11:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:11:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:11:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:11:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:12:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:12:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:12:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:13:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:13:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:13:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:13:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:13:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:13:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:14:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:14:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:15:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:15:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:15:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:15:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:16:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:16:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:16:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:16:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:16:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:16:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:17:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:17:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:17:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:18:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:19:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:19:47 --> 404 Page Not Found: Sales/add
+ERROR - 2020-10-03 09:20:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:20:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:20:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:21:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:21:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:21:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:21:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:22:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:22:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:22:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:22:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:23:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:23:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:23:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:23:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:23:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:24:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:24:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:24:57 --> 404 Page Not Found: 
+ERROR - 2020-10-03 09:24:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:25:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:25:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:26:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:26:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:26:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:26:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:26:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:26:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:26:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:27:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:27:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:27:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:27:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:28:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:29:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:30:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:31:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:31:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:31:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:32:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:32:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:32:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:33:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:34:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:34:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:35:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:36:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:37:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:37:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:39:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:40:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:40:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:43:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:44:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:45:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:46:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:47:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 09:47:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 10:01:07 --> 404 Page Not Found: 
+ERROR - 2020-10-03 10:07:24 --> 404 Page Not Found: 
+ERROR - 2020-10-03 10:19:46 --> 404 Page Not Found: 
+ERROR - 2020-10-03 10:32:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 11:06:12 --> 404 Page Not Found: 
+ERROR - 2020-10-03 11:18:36 --> 404 Page Not Found: Xxxss/index
+ERROR - 2020-10-03 11:47:07 --> 404 Page Not Found: 
+ERROR - 2020-10-03 12:35:08 --> 404 Page Not Found: 
+ERROR - 2020-10-03 12:37:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 12:37:36 --> 404 Page Not Found: 
+ERROR - 2020-10-03 12:38:48 --> 404 Page Not Found: Api/jsonws
+ERROR - 2020-10-03 13:08:31 --> Severity: Warning --> Invalid argument supplied for foreach() /home/dutatunggal/public_html/application/controllers/admin/Dashboard.php 108
+ERROR - 2020-10-03 13:08:31 --> Severity: Warning --> Invalid argument supplied for foreach() /home/dutatunggal/public_html/application/controllers/admin/Dashboard.php 119
+ERROR - 2020-10-03 13:08:31 --> Severity: Warning --> array_values() expects parameter 1 to be array, null given /home/dutatunggal/public_html/application/controllers/admin/Dashboard.php 127
+ERROR - 2020-10-03 13:08:31 --> Severity: Warning --> array_values() expects parameter 1 to be array, null given /home/dutatunggal/public_html/application/controllers/admin/Dashboard.php 137
+ERROR - 2020-10-03 13:08:31 --> Severity: Warning --> array_values() expects parameter 1 to be array, null given /home/dutatunggal/public_html/application/controllers/admin/Dashboard.php 147
+ERROR - 2020-10-03 13:26:50 --> 404 Page Not Found: 
+ERROR - 2020-10-03 13:34:47 --> 404 Page Not Found: 
+ERROR - 2020-10-03 14:42:53 --> 404 Page Not Found: 
+ERROR - 2020-10-03 14:52:05 --> 404 Page Not Found: 
+ERROR - 2020-10-03 14:52:05 --> 404 Page Not Found: 
+ERROR - 2020-10-03 14:54:18 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-10-03 14:54:19 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-10-03 14:59:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 15:08:38 --> 404 Page Not Found: Login/index
+ERROR - 2020-10-03 15:08:57 --> 404 Page Not Found: Login/index
+ERROR - 2020-10-03 15:36:16 --> 404 Page Not Found: 
+ERROR - 2020-10-03 17:10:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 17:10:13 --> 404 Page Not Found: 
+ERROR - 2020-10-03 17:22:21 --> 404 Page Not Found: 
+ERROR - 2020-10-03 17:22:21 --> 404 Page Not Found: 
+ERROR - 2020-10-03 18:01:47 --> 404 Page Not Found: 
+ERROR - 2020-10-03 18:03:57 --> 404 Page Not Found: 
+ERROR - 2020-10-03 18:25:59 --> 404 Page Not Found: 
+ERROR - 2020-10-03 18:57:33 --> 404 Page Not Found: 
+ERROR - 2020-10-03 19:02:56 --> 404 Page Not Found: 
+ERROR - 2020-10-03 19:12:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 19:12:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 20:52:34 --> 404 Page Not Found: 
+ERROR - 2020-10-03 21:07:56 --> 404 Page Not Found: 
+ERROR - 2020-10-03 21:17:13 --> 404 Page Not Found: 
+ERROR - 2020-10-03 21:35:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 21:35:09 --> 404 Page Not Found: 
+ERROR - 2020-10-03 22:39:48 --> 404 Page Not Found: Owa/auth
+ERROR - 2020-10-03 23:27:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 23:27:30 --> 404 Page Not Found: 
+ERROR - 2020-10-03 23:29:45 --> 404 Page Not Found: 
+ERROR - 2020-10-03 23:35:45 --> 404 Page Not Found: 
+ERROR - 2020-10-03 23:43:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 23:43:45 --> 404 Page Not Found: Sitemap/xml
+ERROR - 2020-10-03 23:43:54 --> 404 Page Not Found: Well-known/security.txt
+ERROR - 2020-10-03 23:44:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-03 23:45:07 --> 404 Page Not Found: 

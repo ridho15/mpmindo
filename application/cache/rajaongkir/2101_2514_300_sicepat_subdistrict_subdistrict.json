@@ -1,0 +1,1 @@
+[{"code":"sicepat","name":"SiCepat Express","costs":[{"service":"REG","description":"Layanan Reguler","cost":[{"value":25000,"etd":"1-2","note":""}]},{"service":"SIUNT","description":"SiUntung","cost":[{"value":22000,"etd":"1-2","note":""}]},{"service":"GOKIL","description":"Cargo (Minimal 10kg)","cost":[{"value":50000,"etd":"4-5","note":""}]}]}]
